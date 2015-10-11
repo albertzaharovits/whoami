@@ -1,6 +1,6 @@
 Albert Zaharovits, Software Engineer
 ----------------------------------------------------
-Email: <mailto:albert.zaharovits@gmail.com>
+Email: <mailto:albert.zaharovits@gmail.com>  
 Phone: +40 727883343
 
 
@@ -14,7 +14,7 @@ If you're planning something big, I'd love to help!
 * Interests: System Engineering, Software Security
 
 I am a quick learner, good at finding effective solutions to problems. I am considered reasonable and practical.  
-I usually challenge myself to think â€œoutside the boxâ€.  
+I usually challenge myself to think "outside the box".  
 As a member of a team I am cooperative and reliable. I am confident and not afraid to state my opinion.
 
 ###Work
@@ -31,7 +31,7 @@ Develop and deploy a framework (Python) controlling VMs running files from netwo
 
 **Teaching Assistant, [University Politehnica of Bucharest]** | *Feb 2015 - June 2015, Bucharest, RO*
 
-Held lab classes and evaluated projects for the [Computer System Architecture] class.
+Held lab classes and evaluated projects for the [Computer System Architecture] class.  
 **Topics covered**: parallel programming synchronisation, efficient C code, *Cell BE* and *CUDA* programming models with hands-on tasks.
 
 
@@ -43,7 +43,7 @@ Research fields:
   * achieved C/Fortran interoperability.
   * practiced optimisation techniques CUDA/OpenMP.
   * run batched tests on cluster.
-  * used Open Source linear algebra libraries, such as [ViennaCL] (Open Source contributions [here](https://github.com/viennacl/viennacl-dev/pull/37) and [here](https://github.com/viennacl/viennacl-dev/pull/41))
+  * used Open Source linear algebra libraries, such as [ViennaCL](Open Source contributions [here](https://github.com/viennacl/viennacl-dev/pull/37) and [here](https://github.com/viennacl/viennacl-dev/pull/41))
 
 
 
@@ -53,9 +53,9 @@ Microsoft Sharepoint Site Customisation (.NET C# Framework)
 University Phone Poll Application Customization (.NET C# Framework)
 
 ###Projects
-**eHonk,  Mar - May 2014**
+**eHonk, Mar - May 2014**
 
-[Innovation Labs 2.0]  pitch finalist â€“ eHonk *Android* app
+[Innovation Labs 2.0]  pitch finalist eHonk *Android* app
 Messaging app for drivers in crowded parking lots.
 Simple idea: replace "Be Right Back" leaflets in your windshield! Register your license plate number in the app so others can ping you if your vehicle is blocking them.
 
@@ -91,7 +91,7 @@ Diploma Project (OpenMP, CUDA) - *Sparse Linear System Solver & Benchmarks*
 Description: Optimize sparse system solver for a topology optimization scientific code ([INCAS] collaboration) - Conjugate Gradient algorithm with CSR sparse matrix storage format.
 Grade: 10 out of 10
 
-[NCIT](https://cluster.grid.pub.ro) â€“ Computer Cluster, Summer School 2011 and 2012. Multi-process, Multi-thread Programming
+[NCIT](https://cluster.grid.pub.ro) Computer Cluster, Summer School 2011 and 2012. Multi-process, Multi-thread Programming
 
 
 [Bro]: https://github.com/bro/bro
