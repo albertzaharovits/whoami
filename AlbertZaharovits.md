@@ -70,8 +70,8 @@ Teammates: Madalina Toia, Alexandru Sirbu
 
 **RST Template Matching** | *2013*
 
-As a participant to the [Intel Accelerate Your Code] competition,  I have implemented the [*Ciratefi* template matching algorithm] and participated in the code optimisation competition ([Project link](https://github.com/albertzaharovits/template_matching)).
-The code was benchmarked on latest Intel Xeon and Xeon PHI processors.
+As a participant to the [Intel Accelerate Your Code] competition,  I have implemented the [*Ciratefi* template matching algorithm] and participated in the code optimisation competition ([Project link](https://github.com/albertzaharovits/template_matching)).  
+The code was benchmarked on latest Intel Xeon and Xeon PHI processors.  
 Skills: Intel compilers suite; OpenMP parallelized; Cilk vectorization.
 
 Prize: **5th place (Europe)**
@@ -85,11 +85,11 @@ Assisted teaching lab sessions of the [StreamComputing] workshop on OpenCL held 
 ###School
 
 **[University Politehnica of Bucharest]** | *2010 - 2014*  
-Bachelor's Degree: Computer Science
+Bachelor's Degree: Computer Science  
 Grade: 9.27 out of 10
 
 Diploma Project (OpenMP, CUDA) - *Sparse Linear System Solver & Benchmarks*  
-Description: Optimize sparse system solver for a topology optimization scientific code ([INCAS] collaboration) - Conjugate Gradient algorithm with CSR sparse matrix storage format.
+Description: Optimize sparse system solver for a topology optimization scientific code ([INCAS] collaboration) - Conjugate Gradient algorithm with CSR sparse matrix storage format.  
 Grade: 10 out of 10
 
 [NCIT](https://cluster.grid.pub.ro) Computer Cluster, Summer School 2011 and 2012. Multi-process, Multi-thread Programming
