@@ -43,7 +43,7 @@ Research fields:
   * achieved C/Fortran interoperability.
   * practiced optimisation techniques CUDA/OpenMP.
   * run batched tests on cluster.
-  * used Open Source linear algebra libraries, such as [ViennaCL](Open Source contributions [here](https://github.com/viennacl/viennacl-dev/pull/37) and [here](https://github.com/viennacl/viennacl-dev/pull/41))
+  * used Open Source linear algebra libraries, such as [ViennaCL](Open Source contributions [here1](https://github.com/viennacl/viennacl-dev/pull/37) and [here2](https://github.com/viennacl/viennacl-dev/pull/41))
 
 
 
@@ -53,7 +53,7 @@ Microsoft Sharepoint Site Customisation (.NET C# Framework)
 University Phone Poll Application Customization (.NET C# Framework)
 
 ###Projects
-**eHonk, Mar - May 2014**
+**eHonk** | *Mar - May 2014*
 
 [Innovation Labs 2.0]  pitch finalist eHonk *Android* app
 Messaging app for drivers in crowded parking lots.
@@ -68,7 +68,7 @@ Teammates: Madalina Toia, Alexandru Sirbu
 
 ----
 
-**RST Template Matching, 2013**
+**RST Template Matching** | *2013*
 
 As a participant to the [Intel Accelerate Your Code] competition,  I have implemented the [*Ciratefi* template matching algorithm] and participated in the code optimisation competition ([Project link](https://github.com/albertzaharovits/template_matching)).
 The code was benchmarked on latest Intel Xeon and Xeon PHI processors.
@@ -78,12 +78,12 @@ Prize: **5th place (Europe)**
 
 ###Volunteer
 
-**Assistant Trainer, *Sep 2015***
+**Assistant Trainer** | *Sep 2015*
 Assisted teaching lab sessions of the [StreamComputing] workshop on OpenCL held at [University Politehnica of Bucharest].
 
 ###School
 
-**[University Politehnica of Bucharest], *2010 - 2014***  
+**[University Politehnica of Bucharest]** | *2010 - 2014*  
 Bachelor's Degree: Computer Science
 Grade: 9.27 out of 10
 
