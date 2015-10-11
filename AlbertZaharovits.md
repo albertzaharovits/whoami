@@ -43,7 +43,7 @@ Research fields:
   * achieved C/Fortran interoperability.
   * practiced optimisation techniques CUDA/OpenMP.
   * run batched tests on cluster.
-  * used Open Source linear algebra libraries, such as [ViennaCL](Open Source contributions [here1](https://github.com/viennacl/viennacl-dev/pull/37) and [here2](https://github.com/viennacl/viennacl-dev/pull/41))
+  * used Open Source linear algebra libraries, such as [ViennaCL](https://github.com/viennacl/viennacl-dev) - achieved two Open Source Contributions ([here1](https://github.com/viennacl/viennacl-dev/pull/37) and [here2](https://github.com/viennacl/viennacl-dev/pull/41))
 
 
 
@@ -55,8 +55,8 @@ University Phone Poll Application Customization (.NET C# Framework)
 ###Projects
 **eHonk** | *Mar - May 2014*
 
-[Innovation Labs 2.0]  pitch finalist eHonk *Android* app
-Messaging app for drivers in crowded parking lots.
+[Innovation Labs 2.0]  pitch finalist eHonk *Android* app  
+Messaging app for drivers in crowded parking lots.  
 Simple idea: replace "Be Right Back" leaflets in your windshield! Register your license plate number in the app so others can ping you if your vehicle is blocking them.
 
 The project took part in the hackaton and evolved during the incubator.  
@@ -79,6 +79,7 @@ Prize: **5th place (Europe)**
 ###Volunteer
 
 **Assistant Trainer** | *Sep 2015*
+
 Assisted teaching lab sessions of the [StreamComputing] workshop on OpenCL held at [University Politehnica of Bucharest].
 
 ###School
