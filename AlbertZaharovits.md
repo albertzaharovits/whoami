@@ -17,17 +17,17 @@ I am a quick learner, good at finding effective solutions to problems. I am cons
 I usually challenge myself to think "outside the box".  
 As a member of a team I am cooperative and reliable. I am confident and not afraid to state my opinion.
 
+---
+
 ###Work
 
 **Linux Software Engineer, [Bitdefender]** | *Aug 2014 - Present, Bucharest, RO*
 
 Develop and deploy a framework (Python) controlling VMs running files from network tapping:
 
- * reworked project's architecture similar to Postfix (multiple programs and queues).
+ * reworked project's architecture similar to Postfix (multiple programs and queues & run under supervisord).
  * researched alternative network tapping technologies ([Bro])
  * integrated Redis for metadata cache ([Open Source contribution](https://github.com/bro/bro-plugins/pull/3)).
-
----
 
 **Teaching Assistant, [University Politehnica of Bucharest]** | *Feb 2015 - June 2015, Bucharest, RO*
 
@@ -43,14 +43,14 @@ Research fields:
   * achieved C/Fortran interoperability.
   * practiced optimisation techniques CUDA/OpenMP.
   * run batched tests on cluster.
-  * used Open Source linear algebra libraries, such as [ViennaCL](https://github.com/viennacl/viennacl-dev) - achieved two Open Source Contributions ([here1](https://github.com/viennacl/viennacl-dev/pull/37) and [here2](https://github.com/viennacl/viennacl-dev/pull/41))
+  * used Open Source linear algebra libraries, such as [ViennaCL](https://github.com/viennacl/viennacl-dev) - achieved two Open Source contributions ([here1](https://github.com/viennacl/viennacl-dev/pull/37) and [here2](https://github.com/viennacl/viennacl-dev/pull/41))
 
 
 
 **Junior C# .NET Developer, [Visionware]** | *Jul 2012 - Mar 2013, Bucharest, RO*
 
-Microsoft Sharepoint Site Customisation (.NET C# Framework)  
-University Phone Poll Application Customization (.NET C# Framework)
+Microsoft Sharepoint Site customisation (.NET C# Framework)  
+University Phone Poll Application customization (.NET C# Framework)
 
 ###Projects
 **eHonk** | *Mar - May 2014*
@@ -66,8 +66,6 @@ Learned basics of product development and Android development (Notification & Lo
 
 Teammates: Madalina Toia, Alexandru Sirbu
 
-----
-
 **RST Template Matching** | *2013*
 
 As a participant to the [Intel Accelerate Your Code] competition,  I have implemented the [*Ciratefi* template matching algorithm] and participated in the code optimisation competition ([Project link](https://github.com/albertzaharovits/template_matching)).  
@@ -75,6 +73,8 @@ The code was benchmarked on latest Intel Xeon and Xeon PHI processors.
 Skills: Intel compilers suite; OpenMP parallelized; Cilk vectorization.
 
 Prize: **5th place (Europe)**
+
+----
 
 ###Volunteer
 
