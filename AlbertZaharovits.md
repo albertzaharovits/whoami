@@ -26,8 +26,9 @@ As a member of a team I am cooperative and reliable. I am confident and not afra
 Develop and deploy a framework (Python) controlling VMs running files from network tapping:
 
  * reworked project's architecture similar to Postfix (multiple programs and queues & run under supervisord).
- * researched alternative network tapping technologies ([Bro])
+ * researched alternative network tapping technologies ([Bro]).
  * integrated Redis for metadata cache ([Open Source contribution](https://github.com/bro/bro-plugins/pull/3)).
+ * reworked logging parsable by logstash & configured elasticsearch indeces and mappings.
 
 **Teaching Assistant, [University Politehnica of Bucharest]** | *Feb 2015 - June 2015, Bucharest, RO*
 
